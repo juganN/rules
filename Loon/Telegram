@@ -1,0 +1,8 @@
+IP-CIDR,95.161.76.100/31,REJECT-NO-DROP,no-resolve
+IP-ASN,44907,新国手动策略,no-resolve
+IP-ASN,62014,新国手动策略,no-resolve
+IP-ASN,59930,美国手动策略,no-resolve
+IP-ASN,62041,欧洲手动策略,no-resolve
+IP-ASN,211157,欧洲手动策略,no-resolve
+IP-CIDR,5.28.192.0/18,欧洲手动策略,no-resolve
+IP-CIDR,109.239.140.0/24,欧洲手动策略,no-resolve
