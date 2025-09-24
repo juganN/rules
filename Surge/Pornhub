@@ -1,9 +1,8 @@
-domain_suffix_set:
-  - pornhub.com
-  - pornhubpremium.com
-  - phncdn.com
-  - phprcdn.com
-  - phprcdn.net
-  - phncdn.net
-  - phncdn.info
-  - pornhubselect.com
+DOMAIN-SUFFIX,pornhub.com
+DOMAIN-SUFFIX,pornhubpremium.com
+DOMAIN-SUFFIX,phncdn.com
+DOMAIN-SUFFIX,phprcdn.com
+DOMAIN-SUFFIX,phprcdn.net
+DOMAIN-SUFFIX,phncdn.net
+DOMAIN-SUFFIX,phncdn.info
+DOMAIN-SUFFIX,pornhubselect.com
