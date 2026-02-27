@@ -1,4 +1,4 @@
-#jug自用分流规则 来源于互联网
+#自用分流规则 来源于互联网
 #Thanks To iKeLee(https://github.com/luestr) For Her Great Work
 hostname = %APPEND% m.kookapp.cn, www.kookapp.cn
 ^https:\/\/(m|www)\.kookapp\.cn\/api\/v\d\/user\/settings$ url jsonjq-response-body 'if (getpath([]) | has("ios_mall_switch")) then (setpath(["ios_mall_switch"]; false)) else . end'
